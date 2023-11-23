@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio_shakti.github.io/static/css/main.580b28e9.css",
-    "main.js": "/Portfolio_shakti.github.io/static/js/main.1c69f71d.js",
+    "main.css": "/Portfolio_shakti.github.io/static/css/main.a91bd78a.css",
+    "main.js": "/Portfolio_shakti.github.io/static/js/main.038f3b2b.js",
     "static/media/bg-texture.jpg": "/Portfolio_shakti.github.io/static/media/bg-texture.ef478174db85a80bd0b8.jpg",
+    "static/media/IMG2.png": "/Portfolio_shakti.github.io/static/media/IMG2.0bc552b2c587d6713e7b.png",
+    "static/media/IMG6.png": "/Portfolio_shakti.github.io/static/media/IMG6.088905dc393c1c0949e2.png",
+    "static/media/IMG1.png": "/Portfolio_shakti.github.io/static/media/IMG1.88282ab0bda23add013e.png",
     "static/media/The_Mystery_Man.png": "/Portfolio_shakti.github.io/static/media/The_Mystery_Man.c10c9d153ca119af3b86.png",
     "static/media/Shakti_Singh_Chundawat_Resume.pdf": "/Portfolio_shakti.github.io/static/media/Shakti_Singh_Chundawat_Resume.30dac23ea035298ce58d.pdf",
+    "static/media/IMG4.png": "/Portfolio_shakti.github.io/static/media/IMG4.fc563c2ff8c3f3231eb8.png",
+    "static/media/IMG5.png": "/Portfolio_shakti.github.io/static/media/IMG5.8579f17573b21fa8ff2e.png",
+    "static/media/IMG3.png": "/Portfolio_shakti.github.io/static/media/IMG3.148f637d7623927e5343.png",
     "index.html": "/Portfolio_shakti.github.io/index.html",
-    "main.580b28e9.css.map": "/Portfolio_shakti.github.io/static/css/main.580b28e9.css.map",
-    "main.1c69f71d.js.map": "/Portfolio_shakti.github.io/static/js/main.1c69f71d.js.map"
+    "main.a91bd78a.css.map": "/Portfolio_shakti.github.io/static/css/main.a91bd78a.css.map",
+    "main.038f3b2b.js.map": "/Portfolio_shakti.github.io/static/js/main.038f3b2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.580b28e9.css",
-    "static/js/main.1c69f71d.js"
+    "static/css/main.a91bd78a.css",
+    "static/js/main.038f3b2b.js"
   ]
 }
